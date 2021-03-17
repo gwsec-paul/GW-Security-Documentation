@@ -11,7 +11,12 @@ Not for everything but at least for official documentation either for customers 
 
 As well as realiable, everything that you can read was did just with a simple syntax: 
 
-'###, ##, #' Would determine 
+"
+### Small Titles
+## Medium Size
+# And Large
+" 
+
 ### Small Titles
 ## Medium Size
 # And Large
