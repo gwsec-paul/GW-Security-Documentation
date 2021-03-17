@@ -23,4 +23,6 @@ As well as realiable, everything that you can read was did just with a simple sy
 
 The point is that having simpler text files is easier to find information, less prompt to corrupt and easier to modify. 
 
-You can also make more complex things like tables or [hyperlinks](https://www.markdownguide.org/cheat-sheet/)
+- You can also make more complex things like, bullets tables or [hyperlinks](https://www.markdownguide.org/cheat-sheet/) 
+
+- [ ] Or checkboxes for future updates or unsolved issues.
