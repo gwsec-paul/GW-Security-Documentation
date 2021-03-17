@@ -25,4 +25,8 @@ The point is that having simpler text files is easier to find information, less 
 
 - You can also make more complex things like, bullets tables or [hyperlinks](https://www.markdownguide.org/cheat-sheet/) 
 
-- [ ] Or checkboxes for future updates or unsolved issues.
+- [ ] Or checkboxes for future updates or unsolved issues. 
+
+Like 
+
+- [x] Fixed issue with web interface on internet explorer.
