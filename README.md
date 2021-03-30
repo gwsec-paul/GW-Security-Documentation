@@ -29,4 +29,6 @@ The point is that having simpler text files is easier to find information, less 
 
 Like 
 
-- [x] Fixed issue with web interface on internet explorer.
+- [x] Fixed issue with web interface on internet explorer. 
+
+(https://github.com/gwsec-paul/gwsecurity-documentation/blob/main/example.md)[Example]  
