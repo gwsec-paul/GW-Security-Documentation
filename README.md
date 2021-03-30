@@ -31,4 +31,4 @@ Like
 
 - [x] Fixed issue with web interface on internet explorer. 
 
-!(https://github.com/gwsec-paul/gwsecurity-documentation/blob/main/example.md)[Example]  
+[Example](https://github.com/gwsec-paul/gwsecurity-documentation/blob/main/example.md)  
